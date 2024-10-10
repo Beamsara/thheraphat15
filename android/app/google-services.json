@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535567683041",
+    "project_id": "flutter-users-90724",
+    "storage_bucket": "flutter-users-90724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535567683041:android:14b87ce1557c4f62fb56a0",
+        "android_client_info": {
+          "package_name": "net.itshuntra.theeraphat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyoTNfkOwPNoKQ_iFC-w4WSWJN0LtpOkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
